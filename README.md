@@ -1,2 +1,2 @@
-An Implementation of Membership Protocol based on SWIM.
+An Implementation of Membership Protocol based on GOSSIP.
 
