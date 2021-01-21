@@ -15,3 +15,16 @@ The main functionalities of the project :
 Completeness : Every none faulty process detects every node join, failure and leave.
 
 Accuracy of failure detection : When there are no message losses and message delays are small, all failures are detected. When there are message losses, completeness is satisfied and accuracy is high. 
+
+### Test
+
+There is a grader script GraderNew.sh. It tests your implementation of membership protocol in 3 scenarios.
+
+Single node failure
+
+Multiple node failure
+
+Single node failure under a lossy network.
+
+	$ chmod +x GraderNew.sh
+	$ ./GraderNew.sh
