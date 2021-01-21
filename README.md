@@ -1,5 +1,9 @@
 # An Implementation of Membership Protocol based on GOSSIP.
 
+Building a distributed Fault-Tolerant Key-Value Store on nodes running membership protocol.
+
+The project was forked from University of Illinois at Urbana-Champaign' [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) programming assignment. 
+
 ### What is the project?
 The project is about implementing a Gossip Protocol.
 
